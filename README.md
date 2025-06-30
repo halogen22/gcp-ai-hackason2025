@@ -27,6 +27,7 @@ AIがあなたの旅行の荷造りを全自動でサポート！ 面倒な準�
 
 ## 🛠️ アーキテクチャ (Architecture)
 本プロジェクトは、GCPの各サービスを疎結合に連携させたサーバーレスアーキテクチャを採用しています。
+![Image](https://github.com/user-attachments/assets/cc5f0f75-25ae-4d72-8db2-2ed02d748e3e)
 
 ### 処理フロー
 1. [Firebase Hosting] ユーザーがフロントエンドから行き先・日数を入力。
