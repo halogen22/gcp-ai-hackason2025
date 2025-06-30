@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+Pillow
+google-cloud-storage
+google-cloud-aiplatform
+google-api-python-client
+google-cloud-discoveryengine
