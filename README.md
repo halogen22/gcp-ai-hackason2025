@@ -10,7 +10,7 @@ AIがあなたの旅行の荷造りを全自動でサポート！ 面倒な準�
 
 システムの詳細は[Zenn](https://zenn.dev/osakanafuta/articles/8dbb2f4e020080)からも確認できます。
 ## デモ (Demo)
-[![【デモ】Nizukuri AI(荷造りAI)](https://github.com/user-attachments/assets/75e10904-9859-4cf8-b2cc-315c9b9fdd4d)](https://youtu.be/4juTtKTTOvw)
+[【デモ動画】Nizukuri AI(荷造りAI)](https://youtu.be/4juTtKTTOvw)
 
 ## ✨ 主な機能 (Features)
 - AIによる持ち物リスト自動生成
